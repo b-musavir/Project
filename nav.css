@@ -1,0 +1,92 @@
+.mot{
+    padding: 0px 4px 300px 40px;
+    background-color: black;
+}
+
+#tagline{
+    font-size: 100px;
+    font-display: 12px;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    color: azure;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 100%; 
+    margin-bottom: 20px;
+    background-color: grey;
+    margin-bottom: 2px;
+    
+}
+
+.container img {
+    width: 150px; 
+    margin-right: 20px;
+}
+
+.container .description {
+    font-size: 16px;
+}
+#vi{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: red;
+}
+
+#vii{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: black;
+}
+#ttm{
+    float: left;
+}
+
+#tgl{
+    font-size: 70px;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    padding-bottom: 350px;
+    
+
+}
+
+#sch{
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+    background-color: black;
+}
+
+#lst{
+    margin-top: 10px;
+    background-color: grey;
+    border: 2px solid grey;
+    padding: 10px 10px 10px 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+    
+}
+
+#img100{
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+
+.cnt{
+    font-size: xx-large;
+    color: beige;
+}
+
+#lo{
+    text-decoration: none;
+    color: beige;
+    font-size: xx-large;
+}
+
+#lo:hover{
+    color: green;
+}
